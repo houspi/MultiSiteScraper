@@ -752,7 +752,7 @@ Usage $ProgName [-s SleepTimeout] [ -p address:port] [-q ISBN-13] [-h]
   -p     set proxy address:port
   -q     check the code of one book
 
-Script for scrapping website www.godaddy.com
+Script for scrapping website www.barnesandnoble.com
 
 EOF
 }
